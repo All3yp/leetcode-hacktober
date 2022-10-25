@@ -40,6 +40,8 @@ The structure folder will be like this:
 │       └── Readme.md
 ```
 
+**OBS: You can solve for any programming language.**
+
 * Make your changes (choose from any task below)
 * Commit and push
 
