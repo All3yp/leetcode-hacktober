@@ -27,7 +27,7 @@ git clone https://github.com/your-username/leetcode-hacktober.git
 
 Create a folder referring to the language that will solve the challenge such as `mkdir swift` ([mkdir its a command line to create a folder](https://guialinux.uniriotec.br/mkdir/)) and inside create the directory with the number and name of the challenge, such as `mkdir 01-Two_Sum` and then `touch 01-Two_Sum.swift` ([touch its a command line to create a file](https://man7.org/linux/man-pages/man1/touch.1.html)) . If the folder already exists, create only the file referring to the language.
 
-*Please*, create a readme.md about the question inside your challenge folder *if doesn't exist*, like this example:
+<strong>Please</strong>, create a readme.md about the question inside your challenge folder <strong>if doesn't exist</strong>, like this example:
 
 <img width="1378" alt="Captura de Tela 2022-10-25 às 12 53 41" src="https://user-images.githubusercontent.com/29764688/197822673-8abdc7bd-e2ce-498f-92cf-416c18d6788f.png">
 
