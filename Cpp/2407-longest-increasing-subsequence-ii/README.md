@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/longest-increasing-subsequence/longest-increasing-subsequence-ii/">2407. Longest Increasing Subsequence II
+<h2><a href="https://leetcode.com/problems/longest-increasing-subsequence-ii/">2407. Longest Increasing Subsequence II
 </a></h2>
 <h3>Medium</h3>
 <hr>
