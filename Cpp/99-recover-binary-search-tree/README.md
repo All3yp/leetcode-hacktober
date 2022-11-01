@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/validate-binary-search-tree/">99. Recover Binary Search Tree
+<h2><a href="https://leetcode.com/problems/recover-binary-search-tree/">99. Recover Binary Search Tree
 </a></h2><h3>Medium</h3><hr><div><p>you are given the<code>root</code> of a binary tree(BST), <em>where the values of exactly two nodes of the tree were swapped by mistake. Recover the tree without changing its structure.</em>.</p>
 
 <p>&nbsp;</p>
